@@ -1,21 +1,25 @@
-# Forest Fire Prediction using Machine Learning
-# Overview
+#Forest fire prediction using machine learning
+
+#overview
 This project uses machine learning algorithms to predict forest fires based on meteorological and environmental factors.
 
-# Dataset
+#dataset
 The Algerian Forest Fires dataset is used, containing features such as temperature, humidity, wind speed, and fire weather indices.
 
-# Preprocessing
+#preprocessing
 - Missing values filled with mean
 - Non-essential columns dropped
 - Target variable converted to integers
 
-# Models
+#models
 - Random Forest Classifier
 - Logistic Regression
 
-# Evaluation
+#Evaluation
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
+  
+
+
   
